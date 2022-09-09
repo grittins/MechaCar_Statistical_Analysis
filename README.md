@@ -1,5 +1,7 @@
 # MechaCar_Statistical_Analysis
 
+## Software used: R Studio
+
 ## Linear Regression to Predict MPG 
 <img width="767" alt="Screen Shot 2022-08-30 at 11 55 21 PM" src="https://user-images.githubusercontent.com/104872971/187589393-c49fe6a5-cfa9-4553-a657-7475b0d69c18.png">
 
